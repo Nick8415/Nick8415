@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <h1>Fuck you</h1>
+  <h1>Ancient Indo-European Peoples</h1>
 
 </html>
   <title> The Monk Diamond</title>
