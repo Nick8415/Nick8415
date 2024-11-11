@@ -11,12 +11,11 @@
   <li>what did they look like?</li>
   </ul>
     <p> 
-      <h3> All these questions will be answered in below.
+      <h3> All these questions <strong>will</strong> be answered in below.
       </h3>  
     </p>
 </body>
 
-  
   <span>1.</span>
   
   <p>Text</p>
@@ -24,11 +23,10 @@
   <nav>
     <div id="media">
     <h2>Media</h2>
-    <img src="(https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg)" />
+    <img src="([https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg))" />
     <a href="./index.html">Brown Bear</a>
     <a href="./aboutme.html">About Me</a>
   </nav>
-</nav>
   <div id="introduction">
     <h2>About Brown Bears</h2>
     <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong>.<br /><br /> There are many subspecies within the brown bear species, including the
