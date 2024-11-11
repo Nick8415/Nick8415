@@ -23,7 +23,7 @@
   <nav>
     <div id="media">
     <h2>Media</h2>
-    <img src="([https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg))" />
+    <img src="[([https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg))](https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg)" />
     <a href="./index.html">Brown Bear</a>
     <a href="./aboutme.html">About Me</a>
   </nav>
