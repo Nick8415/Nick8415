@@ -10,9 +10,9 @@
   <li>Why are the significant?</li>
   <li>what did they look like?</li>
   </ul>
-  <p> All these questions will be answered in below. 
+  <p><h3></h3> All these questions will be answered in below. 
   <br> Follow on this website for the journey of discovery 
-  </p>
+  </p>h3></p>
   <span>1.</span>
   
   <p>Text</p>
