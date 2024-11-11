@@ -6,7 +6,8 @@
   <ul>
   <li>who are these people?</li>
   <li>where did they come from?</li>
-  <li>Why are the significant</li>
+  <li>Why are the significant?</li>
+  <li>what did they look like?</li>
   </ul>
   <p> all these questions will be answered in below. 
   <br> Follow on this website for the journey of discovery 
