@@ -9,7 +9,7 @@
   <li>Why are the significant?</li>
   <li>what did they look like?</li>
   </ul>
-  <p> all these questions will be answered in below. 
+  <p> All these questions will be answered in below. 
   <br> Follow on this website for the journey of discovery 
   </p>
   <div id="board">
