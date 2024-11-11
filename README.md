@@ -11,8 +11,7 @@
   <li>what did they look like?</li>
   </ul>
     <p> 
-      <h3> All these questions <strong>will</strong> be answered in below.
-      </h3>  
+      All these questions <strong>will</strong> be answered in below.
     </p>
 </body>
 
@@ -31,6 +30,12 @@
     <h2>About Brown Bears</h2>
     <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong>.<br /><br /> There are many subspecies within the brown bear species, including the
       Atlas bear and the Himalayan brown bear.</p>
+
+      <div id="media">
+    <h2>Media</h2>
+    <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" />
+    <video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" height="240" width="320" controls>Video not supported</video>
+  </div>
 
       i. A page title.
 ii. At least 2 different headings.
