@@ -7,9 +7,8 @@
   <li>who are these people?</li>
   <li>where did they come from?</li>
   <li>Why are the significant</li>
-</ul>
-  <p> who are these people? where did they come from? 
-  <br>all these questions will be answere in due time. 
+  </ul>
+  <p> all these questions will be answered in below. 
   <br> Follow on this website for the journey of discovery 
   </p>
   <div id="board">
