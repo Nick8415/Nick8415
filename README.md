@@ -15,12 +15,8 @@
   </p>
   <div id="board">
   </div>
-  <ebbed> 
-    <embed type="video/webm" src="/media/cc0-videos/flower.mp4" width="250" height="200" />
-    <li>
   <span>1.</span>
   <p>Text</p>
-</li>
 <body>
   <nav>
     <a href="./index.html">Brown Bear</a>
@@ -31,6 +27,19 @@
     <h2>About Brown Bears</h2>
     <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong>.<br /><br /> There are many subspecies within the brown bear species, including the
       Atlas bear and the Himalayan brown bear.</p>
+
+      i. A page title.
+ii. At least 2 different headings.
+iii. <p> Paragraph Element.
+iv. <span> Span Element.
+v. <em> Emphasis Element.
+vi. <strong> Strong Element.
+vii. <ul> Unordered List Element.
+viii. <li> List Item Element.
+ix. <img> Image Element.
+x. All images must have alt attributes.
+6. Your site should be creative, interesting, and visually appealing.
+
 
 </body>
 </html>
