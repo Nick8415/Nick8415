@@ -13,12 +13,13 @@
   <p> All these questions will be answered in below. 
   <br> Follow on this website for the journey of discovery 
   </p>
-  <div id="board">
-  </div>
   <span>1.</span>
   <p>Text</p>
 <body>
   <nav>
+    <div id="media">
+    <h2>Media</h2>
+    <img src="(https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg)" />
     <a href="./index.html">Brown Bear</a>
     <a href="./aboutme.html">About Me</a>
   </nav>
@@ -34,8 +35,6 @@ iii. <p> Paragraph Element.
 iv. <span> Span Element.
 v. <em> Emphasis Element.
 vi. <strong> Strong Element.
-vii. <ul> Unordered List Element.
-viii. <li> List Item Element.
 ix. <img> Image Element.
 x. All images must have alt attributes.
 6. Your site should be creative, interesting, and visually appealing.
