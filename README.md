@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title></title>The Ancient Indo-European Peoples</title>
+  <title>The Ancient Indo-European Peoples</title>
 </head>
 <body>
   <ul>
