@@ -12,44 +12,14 @@
   </ul>
     <p> 
   All these questions <strong>will</strong> be answered in below.
-The ancient indo europeans originated in caucaus moutain range and moved to north forrest steppes of Eurasia (modern-day Ukraine)<br>
+The ancient indo europeans originated in caucaus moutain range and moved to north forrest steppes of Eurasia <em>modern-day Ukraine</em><br>
 Theyre very important because they influenced European, indian and Middle Eastern cultures; almost all modern languages can be linked to the Indo-European peoples, even China shares words from these ancient peoples.
     </p>
 </body>
-
-
-
   <span>1.</span>
-
-  <nav>
     <div id="media">
     <h2>Media</h2>
-    <img src="[([https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg))](https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg)" />
-    <a href="./index.html">Indo european</a>
-    <a href="./aboutme.html">About</a>
-  </nav>
-  <div id="introduction">
-    <h2>About Brown Bears</h2>
-    <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong>.<br /><br /> There are many subspecies within the brown bear species, including the
-      Atlas bear and the Himalayan brown bear.</p>
-
-      <div id="media">
-    <h2>Media</h2>
-    <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" />
-    <video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" height="240" width="320" controls>Video not supported</video>
-  </div>
-
-      i. A page title.
-ii. At least 2 different headings.
-iii. <p> Paragraph Element.
-iv. <span> Span Element.
-v. <em> Emphasis Element.
-vi. <strong> Strong Element.
-ix. <img> Image Element.
-x. All images must have alt attributes.
-6. Your site should be creative, interesting, and visually appealing.
-
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg(https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg" />
 </body>
 </html>
   
