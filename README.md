@@ -14,7 +14,8 @@
       All these questions <strong>will</strong> be answered in below.
     </p>
   <p> The ancient indo europeans originated in caucaus moutain range and moved to north forrest steppes of Eurasia (modern-day Ukraine)<br>
-  </p></br> Theyre very important because they influenced European, indian and Middle Eastern cultures; almost all modern languages can be linked to the Indo-European peoples, even China shares words from these ancient peoples.
+  </br>
+</body></p>Theyre very important because they influenced European, indian and Middle Eastern cultures; almost all modern languages can be linked to the Indo-European peoples, even China shares words from these ancient peoples.
     </p>
 </body>
 
