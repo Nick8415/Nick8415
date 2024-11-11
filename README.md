@@ -12,7 +12,7 @@
   </ul>
   <p><h3></h3> All these questions will be answered in below. 
   <br> Follow on this website for the journey of discovery 
-  </p>h3></p>
+  </p><h3></p>
   <span>1.</span>
   
   <p>Text</p>
