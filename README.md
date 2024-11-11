@@ -18,7 +18,7 @@ Theyre very important because they influenced European, indian and Middle Easter
   <span>1.</span>
     <div id="media">
     <h2>Media</h2>
-    <img src= "https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg(https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg"/>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg"/>
 </body>
 </html>
   
