@@ -13,6 +13,7 @@
     <p> 
       All these questions <strong>will</strong> be answered in below.
     </p>
+  <p> the ancient indo europeans originated in caucaus moutain range and moved to north forrest steppes of Eurasia (modern-day Ukraine)</p>
 </body>
 
   <span>1.</span>
